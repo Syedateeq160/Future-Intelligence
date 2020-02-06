@@ -18,6 +18,18 @@ The data structure involved is Linkedlist to place a single value of the documen
 
 ![4](https://user-images.githubusercontent.com/32579549/72637040-30792980-3982-11ea-9cdf-5192a1c760a9.jpg)
 
+Screenshots: 
+
 ![5](https://user-images.githubusercontent.com/32579549/72637042-30792980-3982-11ea-94f3-5ca88aa3d8d6.jpg)
 
 ![6](https://user-images.githubusercontent.com/32579549/72637044-3111c000-3982-11ea-960c-693f05e36297.jpg)
+
+
+In order to run the program all have to do is download and extract it to your desired folder.
+open terminal in the folder.
+
+type: 
+
+g++ -std=c++11 *.cpp -o joke
+
+and if doesn't work(windows user huh?) then type: 
