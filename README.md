@@ -33,9 +33,9 @@ open terminal in the folder.
 
 type: 
 
-```g++ -std=c++11 *.cpp -o joke
+```g++ -std=c++11 *.cpp -o joke   #and if doesn't work(windows user huh?) then type: 
 
-#and if doesn't work(windows user huh?) then type: 
+
 
 ```g++ -std=c++11 main.cpp sha256.cpp Block.cpp -o joke
 
