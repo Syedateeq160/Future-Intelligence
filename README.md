@@ -31,7 +31,9 @@ Screenshots:
 In order to run the program all have to do is download and extract it to your desired folder.
 open terminal in the folder.
 
-#type: 
+type: 
 
-``` g++ -std=c++11 main.cpp sha256.cpp Block.cpp -o joke
+```C++
+
+g++ -std=c++11 main.cpp sha256.cpp Block.cpp -o joke
 
