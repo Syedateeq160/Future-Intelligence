@@ -1,5 +1,10 @@
 # Future-Intelligence
-A C++ plus and blockchain based software using sha256 Algorithm.
+
+The idea of future intelligence is completely based on critical thinking and problem solving in which this solves the problem of many frauds and scams in the real estate department of DHA. where it has a lot of dublication and fabrication of the property documents in the vicinity.
+
+In which if someone lives abroad and has rent out his/her property. the tenants capture the property even after giving several notices the tenants don't leave the house and in some cases threathen the landlord to keep the price same and let them live in the property.
+
+
 ![1](https://user-images.githubusercontent.com/32579549/72637034-2fe09300-3982-11ea-95ba-1feeb3404c24.jpg)
 
 ![2](https://user-images.githubusercontent.com/32579549/72637036-2fe09300-3982-11ea-9ec7-a83d0935336a.jpg)
