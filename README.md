@@ -7,6 +7,8 @@ In which if someone lives abroad and has rent out his/her property. the tenants 
 
 ![1](https://user-images.githubusercontent.com/32579549/72637034-2fe09300-3982-11ea-95ba-1feeb3404c24.jpg)
 
+So in result, I came with an idea to solve this problem using the newly introduced technology blockchain. where the technology focuses on keeping the <i> Node </i> secure and any other modification done or inteference in the chain of nodes. a permission will be required from every other node to verify the modification and if denied. the hashing address of all the nodes will be changed instantly.
+
 ![2](https://user-images.githubusercontent.com/32579549/72637036-2fe09300-3982-11ea-9ec7-a83d0935336a.jpg)
 
 ![3](https://user-images.githubusercontent.com/32579549/72637037-30792980-3982-11ea-9e0c-e6efcb237125.jpg)
