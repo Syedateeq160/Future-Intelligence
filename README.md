@@ -39,4 +39,4 @@ and if doesn't work(windows user huh?) then type:
 
 g++ -std=c++11 main.cpp sha256.cpp Block.cpp -o joke
 
-I name my .exe file joke , Idk why!
+>I name my .exe file joke , Idk why!
