@@ -11,7 +11,10 @@ So in result, I came with an idea to solve this problem using the newly introduc
 
 ![2](https://user-images.githubusercontent.com/32579549/72637036-2fe09300-3982-11ea-9ec7-a83d0935336a.jpg)
 
+The cryptographic hashing Algorithm is a kind of signature for a text or a data file. SHA-256 generates unique 256-bit signature for a text.
+
 The use of SHA-256 Algorithm is used for the keeping the hashing of the nodes
+
 ![3](https://user-images.githubusercontent.com/32579549/72637037-30792980-3982-11ea-9e0c-e6efcb237125.jpg)
 
 The data structure involved is Linkedlist to place a single value of the document in a single node.
@@ -33,5 +36,7 @@ type:
 g++ -std=c++11 *.cpp -o joke
 
 and if doesn't work(windows user huh?) then type: 
+
 g++ -std=c++11 main.cpp sha256.cpp Block.cpp -o joke
+
 I name my .exe file joke , Idk why!
