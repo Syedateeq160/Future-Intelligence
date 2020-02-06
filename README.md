@@ -21,7 +21,7 @@ The data structure involved is Linkedlist to place a single value of the documen
 
 ![4](https://user-images.githubusercontent.com/32579549/72637040-30792980-3982-11ea-9cdf-5192a1c760a9.jpg)
 
-Screenshots: 
+##Screenshots: 
 
 ![5](https://user-images.githubusercontent.com/32579549/72637042-30792980-3982-11ea-94f3-5ca88aa3d8d6.jpg)
 
